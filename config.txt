@@ -1,0 +1,4 @@
+port=1234
+TTL=120
+managementPort=9000
+host=localhost
